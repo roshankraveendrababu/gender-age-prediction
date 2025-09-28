@@ -56,7 +56,7 @@ Strategy Pattern
 ![Concurrency with threads](https://github.com/user-attachments/assets/8974f716-d940-4223-9e0c-0b2d3e74c87b)
 
 
-![Background thread cleaning expired bookings](https://github.com/user-attachments/assets/63a852e6-e3ec-4712-b36d-f6c1cc1ef5f3)
+![Background thread cleaning expired bookings](https://github.com/user-attachments/assets/8e336a89-c56f-430f-9fdd-89eb6a37d8b3)
 
 
-![Successful seat booking](https://github.com/user-attachments/assets/63a852e6-e3ec-4712-b36d-f6c1cc1ef5f3)
+![Successful seat booking](https://github.com/user-attachments/assets/71e6d562-b671-4484-a90a-9335e0a806cc)
